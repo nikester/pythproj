@@ -1,4 +1,3 @@
 # pythproj
-
-enter..
+ente
 enter the new
